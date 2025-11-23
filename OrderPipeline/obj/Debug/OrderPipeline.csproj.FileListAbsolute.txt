@@ -1,0 +1,11 @@
+D:\STT\OrderPipeline\OrderPipeline\bin\Debug\OrderPipeline.exe.config
+D:\STT\OrderPipeline\OrderPipeline\bin\Debug\OrderPipeline.exe
+D:\STT\OrderPipeline\OrderPipeline\bin\Debug\OrderPipeline.pdb
+D:\STT\OrderPipeline\OrderPipeline\obj\Debug\OrderPipeline.csproj.AssemblyReference.cache
+D:\STT\OrderPipeline\OrderPipeline\obj\Debug\OrderPipeline.Form1.resources
+D:\STT\OrderPipeline\OrderPipeline\obj\Debug\OrderPipeline.Properties.Resources.resources
+D:\STT\OrderPipeline\OrderPipeline\obj\Debug\OrderPipeline.csproj.GenerateResource.cache
+D:\STT\OrderPipeline\OrderPipeline\obj\Debug\OrderPipeline.csproj.CoreCompileInputs.cache
+D:\STT\OrderPipeline\OrderPipeline\obj\Debug\OrderPipeline.exe
+D:\STT\OrderPipeline\OrderPipeline\obj\Debug\OrderPipeline.pdb
+D:\STT\OrderPipeline\OrderPipeline\obj\Debug\OrderPipeline.exe.config

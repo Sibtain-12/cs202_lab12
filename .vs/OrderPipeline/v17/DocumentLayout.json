@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\STT\\OrderPipeline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDE9DD9-F5E0-473C-B560-11DE946E273F}|OrderPipeline\\OrderPipeline.csproj|d:\\stt\\orderpipeline\\orderpipeline\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDE9DD9-F5E0-473C-B560-11DE946E273F}|OrderPipeline\\OrderPipeline.csproj|solutionrelative:orderpipeline\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDE9DD9-F5E0-473C-B560-11DE946E273F}|OrderPipeline\\OrderPipeline.csproj|d:\\stt\\orderpipeline\\orderpipeline\\ordereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDE9DD9-F5E0-473C-B560-11DE946E273F}|OrderPipeline\\OrderPipeline.csproj|solutionrelative:orderpipeline\\ordereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDE9DD9-F5E0-473C-B560-11DE946E273F}|OrderPipeline\\OrderPipeline.csproj|d:\\stt\\orderpipeline\\orderpipeline\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EDE9DD9-F5E0-473C-B560-11DE946E273F}|OrderPipeline\\OrderPipeline.csproj|solutionrelative:orderpipeline\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDE9DD9-F5E0-473C-B560-11DE946E273F}|OrderPipeline\\OrderPipeline.csproj|d:\\stt\\orderpipeline\\orderpipeline\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDE9DD9-F5E0-473C-B560-11DE946E273F}|OrderPipeline\\OrderPipeline.csproj|solutionrelative:orderpipeline\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDE9DD9-F5E0-473C-B560-11DE946E273F}|OrderPipeline\\OrderPipeline.csproj|d:\\stt\\orderpipeline\\orderpipeline\\shipeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDE9DD9-F5E0-473C-B560-11DE946E273F}|OrderPipeline\\OrderPipeline.csproj|solutionrelative:orderpipeline\\shipeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShipEventArgs.cs",
+              "DocumentMoniker": "D:\\STT\\OrderPipeline\\OrderPipeline\\ShipEventArgs.cs",
+              "RelativeDocumentMoniker": "OrderPipeline\\ShipEventArgs.cs",
+              "ToolTip": "D:\\STT\\OrderPipeline\\OrderPipeline\\ShipEventArgs.cs",
+              "RelativeToolTip": "OrderPipeline\\ShipEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:58:06.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderEventArgs.cs",
+              "DocumentMoniker": "D:\\STT\\OrderPipeline\\OrderPipeline\\OrderEventArgs.cs",
+              "RelativeDocumentMoniker": "OrderPipeline\\OrderEventArgs.cs",
+              "ToolTip": "D:\\STT\\OrderPipeline\\OrderPipeline\\OrderEventArgs.cs",
+              "RelativeToolTip": "OrderPipeline\\OrderEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:47:50.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\STT\\OrderPipeline\\OrderPipeline\\Form1.cs",
+              "RelativeDocumentMoniker": "OrderPipeline\\Form1.cs",
+              "ToolTip": "D:\\STT\\OrderPipeline\\OrderPipeline\\Form1.cs",
+              "RelativeToolTip": "OrderPipeline\\Form1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:29:01.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\STT\\OrderPipeline\\OrderPipeline\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "OrderPipeline\\Form1.Designer.cs",
+              "ToolTip": "D:\\STT\\OrderPipeline\\OrderPipeline\\Form1.Designer.cs",
+              "RelativeToolTip": "OrderPipeline\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:28:05.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\STT\\OrderPipeline\\OrderPipeline\\Form1.cs",
+              "RelativeDocumentMoniker": "OrderPipeline\\Form1.cs",
+              "ToolTip": "D:\\STT\\OrderPipeline\\OrderPipeline\\Form1.cs [Design]",
+              "RelativeToolTip": "OrderPipeline\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:19:22.785Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
